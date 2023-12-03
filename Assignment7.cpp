@@ -48,14 +48,3 @@ int main() {
 
     return 0;
 }
-
-/*
-
-Enter text (Ctrl+C to save and exit):
-Myself Devraj Gurjar From MBM UB NIVERSITY JODHPUR
-
-Do you want to save the text to a file? Press Y for Yes or N for No: Y
-Enter a file name: INTRO.txt
-File saving completed.
-
-*/
